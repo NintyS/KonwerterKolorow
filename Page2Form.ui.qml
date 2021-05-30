@@ -70,7 +70,7 @@ Page {
         font.bold: false
         font.family: "Verdana"
 
-        maximumLength: 11
+        maximumLength: 6
     }
 
     Button {
