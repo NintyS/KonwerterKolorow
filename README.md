@@ -1,5 +1,4 @@
 # KonwerterKolorow
-Robię sobie portfolio bo chyba czas zacząć XD
 
 Aplikacja mobilna, testowana na iPhone 6S.
 Aplikacja jest skalowalna i textFieldy mają ogarniczenia znaków do 11 i 6 znaków.
